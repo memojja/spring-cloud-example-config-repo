@@ -6,7 +6,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/UserSOA
     username: root
-    password: root
+    password: 1234
     useSSL: false
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
