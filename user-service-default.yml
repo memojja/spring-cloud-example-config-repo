@@ -15,4 +15,4 @@ spring:
       show-sql: true
       useSSL: false
       naming-strategy: org.hibernate.cfg.ImprovedNamingStrategy
-      dialect: org.hibernate.dialect.MySQL5Dialect
+#      dialect: org.hibernate.dialect.MySQL5Dialect
